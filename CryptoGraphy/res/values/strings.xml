@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AES Encryption</string>
+    <string name="original_text">Origial text</string>
+    <string name="encrypt_text">Encrypt</string>
+    <string name="decrypt_text">Decrypt</string>
+    <string name="clear_text">Clear</string>
+
+</resources>
