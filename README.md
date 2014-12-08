@@ -1,4 +1,24 @@
 Cryptography
 ============
 
-Encryption-Decryption in Android
+Encryption-Decryption using AES(Advance Encryption Standard) symmetric algorithm in Android
+
+Screenshots : 
+<ul> 
+<li> Enter the text to encrypt  <br>
+<br>
+<img src=http://www.picresize.com/images/rsz_sweamz4.png>
+
+</li>
+<br>
+<li> You can see the encrypted text in alert box  <br>
+<br>
+<img src=http://www.picresize.com/images/rsz_fxbqrlc.png>
+</li>
+<br>
+<li> You can get back the original text 
+ <br>
+<br>
+<img src=http://www.picresize.com/images/rsz_hiisxbp.png>
+ </li>
+</ul>
