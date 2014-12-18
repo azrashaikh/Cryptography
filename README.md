@@ -2,6 +2,7 @@ Cryptography
 ============
 
 Encryption-Decryption using AES(Advance Encryption Standard) symmetric algorithm in Android
+You can encrypt/ decrypt passowrd, tocken or any secret key 
 
 Screenshots : 
 <ul> 
