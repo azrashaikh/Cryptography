@@ -8,18 +8,18 @@ Screenshots :
 <ul> 
 <li> Enter the text to encrypt  <br>
 <br>
-<img src=http://www.picresize.com/images/rsz_sweamz4.png>
+<img src="http://oi60.tinypic.com/clziq.jpg">
 
 </li>
 <br>
 <li> You can see the encrypted text in alert box  <br>
 <br>
-<img src=http://www.picresize.com/images/rsz_fxbqrlc.png>
+<img src=http://oi62.tinypic.com/2vcyex3.jpg>
 </li>
 <br>
 <li> You can get back the original text 
  <br>
 <br>
-<img src=http://www.picresize.com/images/rsz_hiisxbp.png>
+<img src=http://oi58.tinypic.com/mcuufd.jpg>
  </li>
 </ul>
